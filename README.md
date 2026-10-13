@@ -65,9 +65,21 @@ The key differentiator? We use **Structured Chunking** (semantic slicing) instea
 
 ---
 
-### 🤝 Let's connect!
+### 🤝 Let's connect! Open to new challenges
 
-If you work with **IBM i legacy modernization**, **AI applied to code**, or want to chat about software architecture, reach out!
+I'm always looking for **new challenges and partnerships**. If you work with **IBM i legacy modernization**, **AI applied to code**, or want to collaborate on innovative projects, let's talk!
+
+**What I'm looking for:**
+- 🤝 **Partnerships** on legacy modernization projects (IBM i → Java / Cloud)
+- 💡 **Challenges** involving AI, RAG architectures, and applied machine learning
+- 🧠 **Technical exchange** with other developers passionate about local AI and open source
+- 🌍 **Remote opportunities** (international or Brazilian)
+
+**What I bring to the table:**
+- Deep experience with IBM i / RPGLE / DSPF / DDS
+- Modern stack: Python, Java 21, Spring Boot, Rust
+- Hands-on AI: RAG, Structured Chunking, local LLMs (Qwen, Llama)
+- Focus on **privacy-first solutions** (no sensitive data leaving your infrastructure)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviofrois/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:flaviofrois6@gmail.com)
@@ -145,9 +157,21 @@ O diferencial? Usamos **Structured Chunking** (fatiamento semântico) em vez do 
 
 ---
 
-### 🤝 Vamos conversar?
+### 🤝 Vamos conversar! Aberto a novos desafios
 
-Se você trabalha com **modernização de sistemas legados IBM i**, **IA aplicada a código** ou quer trocar ideia sobre arquitetura de software, me chama!
+Estou sempre em busca de **novos desafios e parcerias**. Se você trabalha com **modernização de sistemas legados IBM i**, **IA aplicada a código**, ou quer colaborar em projetos inovadores, vamos conversar!
+
+**O que estou buscando:**
+- 🤝 **Parcerias** em projetos de modernização de legado (IBM i → Java / Cloud)
+- 💡 **Desafios** envolvendo IA, arquiteturas RAG e machine learning aplicado
+- 🧠 **Troca técnica** com outros desenvolvedores apaixonados por IA local e open source
+- 🌍 **Oportunidades remotas** (internacionais ou brasileiras)
+
+**O que eu trago para a mesa:**
+- Experiência profunda em IBM i / RPGLE / DSPF / DDS
+- Stack moderna: Python, Java 21, Spring Boot, Rust
+- IA na prática: RAG, Structured Chunking, LLMs locais (Qwen, Llama)
+- Foco em **soluções privacy-first** (nenhum dado sensível sai da sua infraestrutura)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviofrois/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:flaviofrois6@gmail.com)
