@@ -26,6 +26,8 @@ The key differentiator? We use **Structured Chunking** (semantic slicing) instea
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=databricks&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=terminal&logoColor=white)
+![IBM Bob](https://img.shields.io/badge/IBM_Bob-052FAD?style=flat&logo=ibm&logoColor=white)
 
 **Frameworks & Infra:**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -103,6 +105,8 @@ O diferencial? Usamos **Structured Chunking** (fatiamento semântico) em vez do 
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=databricks&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=terminal&logoColor=white)
+![IBM Bob](https://img.shields.io/badge/IBM_Bob-052FAD?style=flat&logo=ibm&logoColor=white)
 
 **Frameworks & Infra:**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
