@@ -1,3 +1,71 @@
+# Hi there, I'm Flavio Frois 👋
+
+**Developer | Legacy IBM i (AS-400) Modernization Specialist**
+
+I'm passionate about solving one of the biggest challenges in the corporate world: **migrating critical legacy systems to modern architectures (Java 21 / Spring Boot / Cloud)** using the power of **Local AI**.
+
+---
+
+### 🚀 What I'm building now
+
+**[Legacy AI Suite](https://github.com/froisf/legacy-ai-suite)** — An AI toolkit focused on **data privacy** and **context preservation** for translating RPGLE/DSPF to Java 21.
+
+The key differentiator? We use **Structured Chunking** (semantic slicing) instead of *Naive Chunking*, ensuring that subroutines (`BEGSR`), procedures (`DCL-PROC`), and display files (`DSPF`) are translated as complete logical units — **100% locally**, without sending sensitive code to the cloud.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![RPGLE](https://img.shields.io/badge/RPGLE-052FAD?style=flat&logo=ibm&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+**AI & RAG:**
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=databricks&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+**Frameworks & Infra:**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🧠 **[mega-rag-clean](https://github.com/froisf/mega-rag-clean)** — Semantic chunker (Structured Chunking) for RPGLE/DSPF code using Pydantic v2 + ChromaDB. *(Private)*
+- 🤖 **[local-llm-mcp](https://github.com/froisf/local-llm-mcp)** — Local AI server for legacy code translation with context preservation. *(Private)*
+- 🌍 **[legacy-ai-suite](https://github.com/froisf/legacy-ai-suite)** — Public showcase of the Legacy AI Suite.
+- ☕ **[rpg2java-ai](https://github.com/froisf/rpg2java-ai)** — Dataset with 814 RPGLE → Java samples (Clean Arch) for AI training.
+- 🦀 **[poc-cadastro-transportadora-rust](https://github.com/froisf/poc-cadastro-transportadora-rust)** — IBM i to Rust migration PoC (Axum + SQLx).
+
+---
+
+### 📖 Currently learning / exploring
+
+- 🧩 Advanced RAG architectures (GraphRAG, MegaRAG)
+- ☕ Java 21 + Spring Boot 3.2.5 (Virtual Threads, Records)
+- 🐳 Orchestration with Docker + PostgreSQL + pgvector
+- 🧠 Local language models (Qwen 2.5 Coder, Llama 3)
+
+---
+
+### 🤝 Let's connect!
+
+If you work with **IBM i legacy modernization**, **AI applied to code**, or want to chat about software architecture, reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviofrois/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:flaviofrois6@gmail.com)
+
+---
+---
+
+## 🇧🇷 Português
+
 ### Olá, eu sou o Flavio Frois 👋
 
 **Desenvolvedor | Especialista em Modernização de Sistemas Legados IBM i (AS-400)**
@@ -64,17 +132,3 @@ Se você trabalha com **modernização de sistemas legados IBM i**, **IA aplicad
 ---
 
 *"Nada precisa ser forçado. A confiança cresce como raiz."* 🌱
-<!--
-**froisf/froisf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
