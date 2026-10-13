@@ -51,7 +51,14 @@ The key differentiator? We use **Structured Chunking** (semantic slicing) instea
 - ☕ Java 21 + Spring Boot 3.2.5 (Virtual Threads, Records)
 - 🐳 Orchestration with Docker + PostgreSQL + pgvector
 - 🧠 Local language models (Qwen 2.5 Coder, Llama 3)
-- 🟦 Active member of the **IBM Bob Community** (IBM's AI coding assistant)
+
+---
+
+### 🎓 Certifications & Community
+
+- 🏅 **Artificial Intelligence Fundamentals** — IBM SkillsBuild ([Credly](https://www.credly.com/))
+- 🟦 **IBM watsonx.ai** — Hands-on experience with Foundation Models, prompt engineering, and Cloud Pak for Data (IBM Cloud)
+- 🟦 **IBM Bob Community** — Active member (IBM's AI coding assistant)
 
 ---
 
@@ -62,6 +69,7 @@ If you work with **IBM i legacy modernization**, **AI applied to code**, or want
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviofrois/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:flaviofrois6@gmail.com)
 [![IBM Bob Community](https://img.shields.io/badge/IBM_Bob-Community-052FAD?style=flat&logo=ibm&logoColor=white)](https://ibm.com)
+
 ---
 ---
 
@@ -120,7 +128,14 @@ O diferencial? Usamos **Structured Chunking** (fatiamento semântico) em vez do 
 - ☕ Java 21 + Spring Boot 3.2.5 (Virtual Threads, Records)
 - 🐳 Orquestração com Docker + PostgreSQL + pgvector
 - 🧠 Modelos de linguagem locais (Qwen 2.5 Coder, Llama 3)
-- 🟦 Membro ativo da **Comunidade IBM Bob** (assistente de código com IA da IBM)
+
+---
+
+### 🎓 Certificações e Comunidade
+
+- 🏅 **Artificial Intelligence Fundamentals** — IBM SkillsBuild ([Credly](https://www.credly.com/))
+- 🟦 **IBM watsonx.ai** — Experiência prática com Foundation Models, prompt engineering e Cloud Pak for Data (IBM Cloud)
+- 🟦 **Comunidade IBM Bob** — Membro ativo (assistente de código com IA da IBM)
 
 ---
 
