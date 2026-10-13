@@ -53,6 +53,7 @@ The key differentiator? We use **Structured Chunking** (semantic slicing) instea
 - ☕ Java 21 + Spring Boot 3.2.5 (Virtual Threads, Records)
 - 🐳 Orchestration with Docker + PostgreSQL + pgvector
 - 🧠 Local language models (Qwen 2.5 Coder, Llama 3)
+- 🛠️ AI-assisted development with **OpenCode** and **IBM Bob**
 
 ---
 
@@ -132,6 +133,7 @@ O diferencial? Usamos **Structured Chunking** (fatiamento semântico) em vez do 
 - ☕ Java 21 + Spring Boot 3.2.5 (Virtual Threads, Records)
 - 🐳 Orquestração com Docker + PostgreSQL + pgvector
 - 🧠 Modelos de linguagem locais (Qwen 2.5 Coder, Llama 3)
+- 🛠️ Desenvolvimento assistido por IA com **OpenCode** e **IBM Bob**
 
 ---
 
